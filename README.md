@@ -8,7 +8,6 @@ Este é um conversor de moedas desenvolvido em React, permitindo que os usuário
 
 - Sobre
 - Tecnologias Utilizadas
-- Estrutura do Projeto
 - Funcionalidades
 - Contato
 
